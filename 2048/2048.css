@@ -1,0 +1,35 @@
+.gamewindow {
+	position: relative;
+	border: 5px solid #bcae9d;
+	background: #bcae9d;
+	width: 475px;
+	height: 475px;
+}
+
+.cell {
+	position: absolute;
+	background: #d6cdc4;
+	top: 0px;
+	left: 0px;
+	font-size: 50px;
+	text-align: center;
+	line-height: 120px;
+	border: 5px solid #bcae9d;
+	box-sizing: border-box;
+	width: 125px;
+	height: 125px;
+}
+
+.anicell {
+	position: absolute;
+	background: #d6cdc4;
+	top: 0px;
+	left: 0px;
+	font-size: 50px;
+	text-align: center;
+	line-height: 120px;
+	border: 0px;
+	box-sizing: border-box;
+	width: 115px;
+	height: 115px;
+}
